@@ -7,12 +7,12 @@
 На тестирование затрачено: 30 минут
 
 В результате тестирования выявлены следующие дефекты:
-* [Реезультат при слложении даных типа double не верны](https://github.com/Yudinegor86/Precision/issues/1#issue-890075066)
+* [Не верный результат при сложении данных типа double](https://github.com/Yudinegor86/Precision/issues/1#issue-890075066)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* [Код для приложения Precision](https://github.com/Yudinegor86/Precision/issues/1#issue-890075066)
+* [Код для приложения Precision](https://github.com/Yudinegor86/Precision/blob/master/src/Main.java)
 
 
 
